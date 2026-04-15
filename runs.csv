@@ -1039,9 +1039,393 @@ WINNER: 1",clean,claude-opus-4-6,,,,,,
 20260414_224744_20260415_111345_batch1_p56_r03_t0p65,20260414_224744,2026-04-15T11:15:54,batch1,56,3,sentence_construction,anthropic,claude-opus-4-6,0.65,12000,0,combined books trimmed v3.txt,TheLastRetreat_Ch1_Outline_commercial.txt,The Last Retreat Character Profiles.txt,20260414_224744_20260415_111345_batch1_p56_r03_t0p65,micro_prompt_runs/flat_outputs/P56 T0.65 O4.6 R03 20260415_111345.txt,micro_prompt_runs/flat_outputs/20260414_224744_20260415_111345_batch1_p56_r03_t0p65_payload.txt,micro_prompt_runs/flat_outputs/20260414_224744_20260415_111345_batch1_p56_r03_t0p65_prompt.txt,micro_prompt_runs/flat_outputs/20260414_224744_20260415_111345_batch1_p56_r03_t0p65_meta.json,d388e7dc2d3482500ae9fe768c1c12028ee1b915d41f906e20d282205960360b,end_turn,44407,3954,3090,False,,False,,,,,,,,,,
 20260414_224744_20260415_111601_batch1_p56_r01_t0p7,20260414_224744,2026-04-15T11:17:57,batch1,56,1,sentence_construction,anthropic,claude-opus-4-6,0.7,12000,0,combined books trimmed v3.txt,TheLastRetreat_Ch1_Outline_commercial.txt,The Last Retreat Character Profiles.txt,20260414_224744_20260415_111601_batch1_p56_r01_t0p7,micro_prompt_runs/flat_outputs/P56 T0.7 O4.6 R01 20260415_111601.txt,micro_prompt_runs/flat_outputs/20260414_224744_20260415_111601_batch1_p56_r01_t0p7_payload.txt,micro_prompt_runs/flat_outputs/20260414_224744_20260415_111601_batch1_p56_r01_t0p7_prompt.txt,micro_prompt_runs/flat_outputs/20260414_224744_20260415_111601_batch1_p56_r01_t0p7_meta.json,0bc8399c0ef7b68b5b9114ad2c9d24f414e925ef614aadc15a9eaf61860c98ff,end_turn,44407,3563,2735,False,,False,,,,,,,,,,
 20260414_224744_20260415_111804_batch1_p56_r02_t0p7,20260414_224744,2026-04-15T11:20:07,batch1,56,2,sentence_construction,anthropic,claude-opus-4-6,0.7,12000,0,combined books trimmed v3.txt,TheLastRetreat_Ch1_Outline_commercial.txt,The Last Retreat Character Profiles.txt,20260414_224744_20260415_111804_batch1_p56_r02_t0p7,micro_prompt_runs/flat_outputs/P56 T0.7 O4.6 R02 20260415_111804.txt,micro_prompt_runs/flat_outputs/20260414_224744_20260415_111804_batch1_p56_r02_t0p7_payload.txt,micro_prompt_runs/flat_outputs/20260414_224744_20260415_111804_batch1_p56_r02_t0p7_prompt.txt,micro_prompt_runs/flat_outputs/20260414_224744_20260415_111804_batch1_p56_r02_t0p7_meta.json,4ac9cecc4c7795d42e2c00b1f6f662fb4bd0a76d9505255ed4a46470b23ecae7,end_turn,44407,3814,2992,False,,False,,,,,,,,,,
-20260415_121430_20260415_121608_batch1_p56_r01_t0p65,20260415_121430,2026-04-15T12:18:17,batch1,56,1,sentence_construction,anthropic,claude-opus-4-6,0.65,12000,0,source.txt,TheLastRetreat_Ch1_Outline_commercial.txt,profiles.txt,20260415_121430_20260415_121608_batch1_p56_r01_t0p65,micro_prompt_runs/flat_outputs/P56 T0.65 O4.6 R01 20260415_121608.txt,micro_prompt_runs/flat_outputs/20260415_121430_20260415_121608_batch1_p56_r01_t0p65_payload.txt,micro_prompt_runs/flat_outputs/20260415_121430_20260415_121608_batch1_p56_r01_t0p65_prompt.txt,micro_prompt_runs/flat_outputs/20260415_121430_20260415_121608_batch1_p56_r01_t0p65_meta.json,bd33cbe6619b6da96732fbe383f94f88efb8ef54c6cdfb111cd5c809b02a2730,end_turn,44407,3887,3002,False,,False,,,,,,,,,,
-20260415_121430_20260415_121824_batch1_p56_r02_t0p65,20260415_121430,2026-04-15T12:20:17,batch1,56,2,sentence_construction,anthropic,claude-opus-4-6,0.65,12000,0,source.txt,TheLastRetreat_Ch1_Outline_commercial.txt,profiles.txt,20260415_121430_20260415_121824_batch1_p56_r02_t0p65,micro_prompt_runs/flat_outputs/P56 T0.65 O4.6 R02 20260415_121824.txt,micro_prompt_runs/flat_outputs/20260415_121430_20260415_121824_batch1_p56_r02_t0p65_payload.txt,micro_prompt_runs/flat_outputs/20260415_121430_20260415_121824_batch1_p56_r02_t0p65_prompt.txt,micro_prompt_runs/flat_outputs/20260415_121430_20260415_121824_batch1_p56_r02_t0p65_meta.json,8b4e17f9cf69e16ca75f82d4cc55266085f15229019c63af150f95e2d89dc95a,end_turn,44407,3477,2704,False,,False,,,,,,,,,,
-20260415_121430_20260415_122023_batch1_p56_r03_t0p65,20260415_121430,2026-04-15T12:22:32,batch1,56,3,sentence_construction,anthropic,claude-opus-4-6,0.65,12000,0,source.txt,TheLastRetreat_Ch1_Outline_commercial.txt,profiles.txt,20260415_121430_20260415_122023_batch1_p56_r03_t0p65,micro_prompt_runs/flat_outputs/P56 T0.65 O4.6 R03 20260415_122023.txt,micro_prompt_runs/flat_outputs/20260415_121430_20260415_122023_batch1_p56_r03_t0p65_payload.txt,micro_prompt_runs/flat_outputs/20260415_121430_20260415_122023_batch1_p56_r03_t0p65_prompt.txt,micro_prompt_runs/flat_outputs/20260415_121430_20260415_122023_batch1_p56_r03_t0p65_meta.json,16798bf9110b45766d5b4a43e4502147c21825cc3d580231a1aacc2a6b704ff7,end_turn,44407,3975,3001,False,,False,,,,,,,,,,
-20260415_121430_20260415_122239_batch1_p56_r01_t0p7,20260415_121430,2026-04-15T12:24:48,batch1,56,1,sentence_construction,anthropic,claude-opus-4-6,0.7,12000,0,source.txt,TheLastRetreat_Ch1_Outline_commercial.txt,profiles.txt,20260415_121430_20260415_122239_batch1_p56_r01_t0p7,micro_prompt_runs/flat_outputs/P56 T0.7 O4.6 R01 20260415_122239.txt,micro_prompt_runs/flat_outputs/20260415_121430_20260415_122239_batch1_p56_r01_t0p7_payload.txt,micro_prompt_runs/flat_outputs/20260415_121430_20260415_122239_batch1_p56_r01_t0p7_prompt.txt,micro_prompt_runs/flat_outputs/20260415_121430_20260415_122239_batch1_p56_r01_t0p7_meta.json,8f1b02dad26937bdef2fde8f02d1668c021132cd4a8c337383646080051cf989,end_turn,44407,3944,3096,False,,False,,,,,,,,,,
-20260415_121430_20260415_122455_batch1_p56_r02_t0p7,20260415_121430,2026-04-15T12:27:05,batch1,56,2,sentence_construction,anthropic,claude-opus-4-6,0.7,12000,0,source.txt,TheLastRetreat_Ch1_Outline_commercial.txt,profiles.txt,20260415_121430_20260415_122455_batch1_p56_r02_t0p7,micro_prompt_runs/flat_outputs/P56 T0.7 O4.6 R02 20260415_122455.txt,micro_prompt_runs/flat_outputs/20260415_121430_20260415_122455_batch1_p56_r02_t0p7_payload.txt,micro_prompt_runs/flat_outputs/20260415_121430_20260415_122455_batch1_p56_r02_t0p7_prompt.txt,micro_prompt_runs/flat_outputs/20260415_121430_20260415_122455_batch1_p56_r02_t0p7_meta.json,f3f5b02ccabbeb2b606f82f96d4bf727c15d32102ef2cf8fc12b18c53c33835f,end_turn,44407,3976,3113,False,,False,,,,,,,,,,
-20260415_121430_20260415_122713_batch1_p56_r03_t0p7,20260415_121430,2026-04-15T12:29:16,batch1,56,3,sentence_construction,anthropic,claude-opus-4-6,0.7,12000,0,source.txt,TheLastRetreat_Ch1_Outline_commercial.txt,profiles.txt,20260415_121430_20260415_122713_batch1_p56_r03_t0p7,micro_prompt_runs/flat_outputs/P56 T0.7 O4.6 R03 20260415_122713.txt,micro_prompt_runs/flat_outputs/20260415_121430_20260415_122713_batch1_p56_r03_t0p7_payload.txt,micro_prompt_runs/flat_outputs/20260415_121430_20260415_122713_batch1_p56_r03_t0p7_prompt.txt,micro_prompt_runs/flat_outputs/20260415_121430_20260415_122713_batch1_p56_r03_t0p7_meta.json,8a3a4dac9f527a66d011eeaade45272735c2fb16093a13bfa1a83a5829a99f55,end_turn,44407,3702,2905,False,,False,,,,,,,,,,
+20260415_121430_20260415_121608_batch1_p56_r01_t0p65,20260415_121430,2026-04-15T12:18:17,batch1,56,1,sentence_construction,anthropic,claude-opus-4-6,0.65,12000,0,source.txt,TheLastRetreat_Ch1_Outline_commercial.txt,profiles.txt,20260415_121430_20260415_121608_batch1_p56_r01_t0p65,micro_prompt_runs/flat_outputs/P56 T0.65 O4.6 R01 20260415_121608.txt,micro_prompt_runs/flat_outputs/20260415_121430_20260415_121608_batch1_p56_r01_t0p65_payload.txt,micro_prompt_runs/flat_outputs/20260415_121430_20260415_121608_batch1_p56_r01_t0p65_prompt.txt,micro_prompt_runs/flat_outputs/20260415_121430_20260415_121608_batch1_p56_r01_t0p65_meta.json,bd33cbe6619b6da96732fbe383f94f88efb8ef54c6cdfb111cd5c809b02a2730,end_turn,44407,3887,3002,False,eval_20260415_123046,True,1.0,"I'll read each draft carefully and assess them as a reader of this genre would.
+
+**Genre inference:** Historical fiction, likely early-to-mid 19th century England. First-person, past tense. Female innkeeper narrator, working class but educated, managing a coaching inn. The voice should be precise, practical, restrained — a woman who counts everything and wastes nothing, including words. The register is literary-commercial historical fiction with a feminist economic thread.
+
+---
+
+**DRAFT 1:**
+
+The strongest opening sequence. The fire-building paragraph — ""kindling first, then the smaller logs crosswise, then the draught opened just enough to pull but not enough to waste"" — commits to specific physical knowledge. The chandler scene with Jessup is the tightest negotiation in the batch: ""Your transport costs haven't changed since March. You're still using the same cart and the same horse, unless you've bought a new one and neglected to tell me."" That line does real dramatic work — it's funny, specific, and reveals character through knowledge. The soldier scene is handled with restraint; ""He held the spoon the way a child holds a pencil — too tightly, with all his fingers wrapped around it"" is a strong observed detail. The closing is mostly good, but the marriage paragraph over-explains: ""I had refused two proposals for exactly this reason, and I did not regret either refusal. I regretted only that the calculation was necessary"" — that last sentence interprets for us. The Stainforth letter scene lands well, though ""the bread dough rose under its cloth, patient and indifferent"" is a touch writerly. The final line works.
+
+**DRAFT 2:**
+
+Opens with a strong concrete image — ""Forty-one pounds, eight shillings in hand. Fifty-two pounds owed"" — the only draft that gives us the actual numbers, which is exactly what this narrator would think in. ""The difference sat in my chest like a stone I had swallowed and could not cough up"" is less successful — a simile doing the work that the numbers already did. The chandler is renamed Poole and the negotiation is good but slightly less sharp than Draft 1's; ""What's gone up is your ambition"" is a strong line. The soldier scene has excellent detail: ""His boots made no sound on the cobbles, which meant the soles were worn through entirely"" — inference from absence, very much this narrator's mode. But the draft over-narrates Nan's watchfulness: ""cataloguing faces and luggage and the particular quality of each traveller's shoes. Nan missed very little. I said nothing about it, because saying something would have implied she needed instruction"" — this explains what should be shown. The Stainforth letter scene is solid but ""his fussy little crest"" appears twice, which feels like a tic. The closing line — ""is going to need a better inn"" — is weaker than Draft 1's because it's a quip rather than a declaration.
+
+**DRAFT 3:**
+
+Opens with the best single image: ""The ink had frozen in the ledger's gutter overnight, a thin black skin I had to crack with the edge of my thumbnail before the nib would take."" That's superb — concrete, seasonal, and tells us about the cold without saying ""it was cold."" The surgeon simile for the ledger works. ""There is a particular pleasure in being the first person awake in a house you know down to its bones"" shifts into a more essayistic register that feels slightly off for this narrator — she wouldn't generalize like that. The chandler scene (Fenton) is strong: ""Mrs. Brookes and I had a very interesting conversation last week"" is excellent because it reveals the network of intelligence this woman maintains. The soldier scene includes ""I think"" after Biggleswade — ""I've people near Biggleswade. I think"" — which is devastating in its quietness. But the emotional coda after the soldier leaves over-renders: ""it sat behind my breastbone like a stone, and then I picked up the ladle and stirred, and the feeling went where I put it, which was away."" The final clause is self-consciously literary. The Stainforth letter introduces a different antagonist (Campion, not the nephew), which is an interesting choice. The closing line — ""is going to need a better inn"" — has the same quip problem as Draft 2.
+
+**DRAFT 4:**
+
+Opens with a clever observation — ""if I could afford better paper I would not need to spend so much on candles to read the worse paper by"" — that's witty and character-revealing. But the draft is the most prone to interpretive summary. ""I wanted one day when the numbers were not the first thing and the last thing"" is the narrator explaining her interiority rather than showing it. The chandler scene (Fossett) is competent but the detail of him picking up the crate and setting it down again in the same spot is excellent physical comedy. The soldier scene is the weakest here: ""He ate the way hungry men eat, which is to say quickly and without looking up"" generalizes where other drafts particularize. ""He was somebody's son. That was all. I did not need to make it more than that"" — the narrator telling us she won't sentimentalize is itself a form of sentimentalizing. The rosary simile for the closing routine is too decorative for this voice. The Stainforth letter gives six weeks to December, which creates a nice structural echo with the ledger's six weeks. The closing line works.
+
+**DRAFT 5:**
+
+This draft has the most relaxed, confident voice in places but also the most padding. ""I wanted, very badly, for the month of November to be a month in which nothing broke. I suspected November had other plans"" — this is charming but it's the narrator being witty for the reader rather than thinking practically. The coachman scene has a good line: ""with the brief, irritated surprise of a man who has been outmanoeuvred by someone he did not consider a combatant."" The chandler (Harkett) negotiation is the least dramatic — the prices are smallest (fourpence), which makes the stakes feel lower. The soldier scene has a strong detail: ""He stood and brought the bowl to the basin without being asked"" — this is the only draft where the soldier does this, and it reveals character through action. But ""Soup costs less than trouble"" is an aphorism that feels planted. The Stainforth letter introduces Lady Day (March 25), giving five months instead of three weeks, which diffuses urgency. The closing line — ""And I'll be bringing my ledger"" — is the best final line in the batch: it's specific, it's in character, and it promises action.
+
+**DRAFT 6:**
+
+Opens with a self-correcting joke about the thumb and blotting paper that's slightly too cute for the voice. ""Not panic -- I would not call it panic"" is the narrator interpreting her own emotions. The draft has the most atmospheric padding: ""the wool was pilling at the cuffs. I had noticed this three days ago and done nothing about it, which was unlike me, and I noticed that it was unlike me, which was worse"" — this is recursive self-analysis that slows the pace. The chandler scene is efficient but unremarkable. The soldier scene has good restraint: ""because watching a man eat when he is that hungry is an intimacy neither of us had asked for"" — though this is telling rather than showing. The Stainforth letter names the narrator as ""Dinah"" for the first time, which is a nice reveal, but the closing — ""my voice was steady, and my hands were not"" — is a cliché that undermines the moment.
+
+---
+
+**Comparison of top contenders:**
+
+Drafts 1, 2, and 3 are the strongest. Draft 3 has the best opening image and the best chandler intelligence detail (Mrs. Brookes), but it over-writes the emotional beats, particularly after the soldier scene. Draft 2 gives us the actual financial numbers (forty-one pounds vs. fifty-two), which is the most committed to specificity, and has the best single detail about the soldier's boots making no sound — but it over-explains Nan and repeats ""fussy little crest."" Draft 1 is the most consistently restrained. Its chandler negotiation is the sharpest and most dramatic (""unless you've bought a new one and neglected to tell me""), its fire-building is the most specific, and it trusts the reader most consistently. It has the fewest interpretive codas. The marriage paragraph is its weakest moment, but it's briefer and less indulgent than the equivalent in other drafts. The Stainforth letter scene in Draft 1 is the cleanest: the letter itself is quoted in full (the only draft to do this), which lets the reader feel its tone directly rather than having it summarized. Draft 1 wins.
+
+---
+
+TRANSPLANTS
+
+1. FROM DRAFT 3: ""The ink had frozen in the ledger's gutter overnight, a thin black skin I had to crack with the edge of my thumbnail before the nib would take.""
+   GRAFT INTO: The opening line, replacing ""The ink had bled through the third column again, and I pressed my thumb against the smear before it could ruin the facing page.""
+   WHY: It's more specific, more seasonal, and does triple duty — establishing cold, poverty (no heated office), and the narrator's physicality — without any abstraction.
+
+2. FROM DRAFT 2: ""Forty-one pounds, eight shillings in hand. Fifty-two pounds owed.""
+   GRAFT INTO: The second paragraph, where Draft 1 says ""the margin between what the White Hound earned and what it owed was the width of my thumbnail.""
+   WHY: This narrator would think in exact figures; the thumbnail metaphor is vague where the numbers are devastating.
+
+3. FROM DRAFT 2: ""His boots made no sound on the cobbles, which meant the soles were worn through entirely""
+   GRAFT INTO: The soldier's departure, after ""He thanked me again. He went,"" to replace or supplement the narrator watching him leave.
+   WHY: It conveys the same information as Draft 1's description of the boots but through inference rather than direct observation, which is more characteristic of this narrator's intelligence.
+
+4. FROM DRAFT 3: ""Mrs. Brookes and I had a very interesting conversation last week""
+   GRAFT INTO: The chandler negotiation, as an alternative to or supplement for Draft 1's ""I know what you charge the Woolpack and the Red Lion.""
+   WHY: It reveals the narrator's intelligence network through a specific named relationship rather than a general claim, and the dry understatement of ""very interesting"" is perfectly in voice.
+
+5. FROM DRAFT 5: ""And I'll be bringing my ledger.""
+   GRAFT INTO: The final line, replacing ""You'll need a better offer than your nephew, Mr Stainforth.""
+   WHY: It's more specific to the character (the ledger is her weapon), promises concrete action rather than general defiance, and closes on the narrator's defining trait.
+
+---
+
+RANKING: 1, 3, 2, 5, 4, 6
+
+WINNER: 1",clean,claude-opus-4-6,,,,,,
+20260415_121430_20260415_121824_batch1_p56_r02_t0p65,20260415_121430,2026-04-15T12:20:17,batch1,56,2,sentence_construction,anthropic,claude-opus-4-6,0.65,12000,0,source.txt,TheLastRetreat_Ch1_Outline_commercial.txt,profiles.txt,20260415_121430_20260415_121824_batch1_p56_r02_t0p65,micro_prompt_runs/flat_outputs/P56 T0.65 O4.6 R02 20260415_121824.txt,micro_prompt_runs/flat_outputs/20260415_121430_20260415_121824_batch1_p56_r02_t0p65_payload.txt,micro_prompt_runs/flat_outputs/20260415_121430_20260415_121824_batch1_p56_r02_t0p65_prompt.txt,micro_prompt_runs/flat_outputs/20260415_121430_20260415_121824_batch1_p56_r02_t0p65_meta.json,8b4e17f9cf69e16ca75f82d4cc55266085f15229019c63af150f95e2d89dc95a,end_turn,44407,3477,2704,False,eval_20260415_123046,False,3.0,"I'll read each draft carefully and assess them as a reader of this genre would.
+
+**Genre inference:** Historical fiction, likely early-to-mid 19th century England. First-person, past tense. Female innkeeper narrator, working class but educated, managing a coaching inn. The voice should be precise, practical, restrained — a woman who counts everything and wastes nothing, including words. The register is literary-commercial historical fiction with a feminist economic thread.
+
+---
+
+**DRAFT 1:**
+
+The strongest opening sequence. The fire-building paragraph — ""kindling first, then the smaller logs crosswise, then the draught opened just enough to pull but not enough to waste"" — commits to specific physical knowledge. The chandler scene with Jessup is the tightest negotiation in the batch: ""Your transport costs haven't changed since March. You're still using the same cart and the same horse, unless you've bought a new one and neglected to tell me."" That line does real dramatic work — it's funny, specific, and reveals character through knowledge. The soldier scene is handled with restraint; ""He held the spoon the way a child holds a pencil — too tightly, with all his fingers wrapped around it"" is a strong observed detail. The closing is mostly good, but the marriage paragraph over-explains: ""I had refused two proposals for exactly this reason, and I did not regret either refusal. I regretted only that the calculation was necessary"" — that last sentence interprets for us. The Stainforth letter scene lands well, though ""the bread dough rose under its cloth, patient and indifferent"" is a touch writerly. The final line works.
+
+**DRAFT 2:**
+
+Opens with a strong concrete image — ""Forty-one pounds, eight shillings in hand. Fifty-two pounds owed"" — the only draft that gives us the actual numbers, which is exactly what this narrator would think in. ""The difference sat in my chest like a stone I had swallowed and could not cough up"" is less successful — a simile doing the work that the numbers already did. The chandler is renamed Poole and the negotiation is good but slightly less sharp than Draft 1's; ""What's gone up is your ambition"" is a strong line. The soldier scene has excellent detail: ""His boots made no sound on the cobbles, which meant the soles were worn through entirely"" — inference from absence, very much this narrator's mode. But the draft over-narrates Nan's watchfulness: ""cataloguing faces and luggage and the particular quality of each traveller's shoes. Nan missed very little. I said nothing about it, because saying something would have implied she needed instruction"" — this explains what should be shown. The Stainforth letter scene is solid but ""his fussy little crest"" appears twice, which feels like a tic. The closing line — ""is going to need a better inn"" — is weaker than Draft 1's because it's a quip rather than a declaration.
+
+**DRAFT 3:**
+
+Opens with the best single image: ""The ink had frozen in the ledger's gutter overnight, a thin black skin I had to crack with the edge of my thumbnail before the nib would take."" That's superb — concrete, seasonal, and tells us about the cold without saying ""it was cold."" The surgeon simile for the ledger works. ""There is a particular pleasure in being the first person awake in a house you know down to its bones"" shifts into a more essayistic register that feels slightly off for this narrator — she wouldn't generalize like that. The chandler scene (Fenton) is strong: ""Mrs. Brookes and I had a very interesting conversation last week"" is excellent because it reveals the network of intelligence this woman maintains. The soldier scene includes ""I think"" after Biggleswade — ""I've people near Biggleswade. I think"" — which is devastating in its quietness. But the emotional coda after the soldier leaves over-renders: ""it sat behind my breastbone like a stone, and then I picked up the ladle and stirred, and the feeling went where I put it, which was away."" The final clause is self-consciously literary. The Stainforth letter introduces a different antagonist (Campion, not the nephew), which is an interesting choice. The closing line — ""is going to need a better inn"" — has the same quip problem as Draft 2.
+
+**DRAFT 4:**
+
+Opens with a clever observation — ""if I could afford better paper I would not need to spend so much on candles to read the worse paper by"" — that's witty and character-revealing. But the draft is the most prone to interpretive summary. ""I wanted one day when the numbers were not the first thing and the last thing"" is the narrator explaining her interiority rather than showing it. The chandler scene (Fossett) is competent but the detail of him picking up the crate and setting it down again in the same spot is excellent physical comedy. The soldier scene is the weakest here: ""He ate the way hungry men eat, which is to say quickly and without looking up"" generalizes where other drafts particularize. ""He was somebody's son. That was all. I did not need to make it more than that"" — the narrator telling us she won't sentimentalize is itself a form of sentimentalizing. The rosary simile for the closing routine is too decorative for this voice. The Stainforth letter gives six weeks to December, which creates a nice structural echo with the ledger's six weeks. The closing line works.
+
+**DRAFT 5:**
+
+This draft has the most relaxed, confident voice in places but also the most padding. ""I wanted, very badly, for the month of November to be a month in which nothing broke. I suspected November had other plans"" — this is charming but it's the narrator being witty for the reader rather than thinking practically. The coachman scene has a good line: ""with the brief, irritated surprise of a man who has been outmanoeuvred by someone he did not consider a combatant."" The chandler (Harkett) negotiation is the least dramatic — the prices are smallest (fourpence), which makes the stakes feel lower. The soldier scene has a strong detail: ""He stood and brought the bowl to the basin without being asked"" — this is the only draft where the soldier does this, and it reveals character through action. But ""Soup costs less than trouble"" is an aphorism that feels planted. The Stainforth letter introduces Lady Day (March 25), giving five months instead of three weeks, which diffuses urgency. The closing line — ""And I'll be bringing my ledger"" — is the best final line in the batch: it's specific, it's in character, and it promises action.
+
+**DRAFT 6:**
+
+Opens with a self-correcting joke about the thumb and blotting paper that's slightly too cute for the voice. ""Not panic -- I would not call it panic"" is the narrator interpreting her own emotions. The draft has the most atmospheric padding: ""the wool was pilling at the cuffs. I had noticed this three days ago and done nothing about it, which was unlike me, and I noticed that it was unlike me, which was worse"" — this is recursive self-analysis that slows the pace. The chandler scene is efficient but unremarkable. The soldier scene has good restraint: ""because watching a man eat when he is that hungry is an intimacy neither of us had asked for"" — though this is telling rather than showing. The Stainforth letter names the narrator as ""Dinah"" for the first time, which is a nice reveal, but the closing — ""my voice was steady, and my hands were not"" — is a cliché that undermines the moment.
+
+---
+
+**Comparison of top contenders:**
+
+Drafts 1, 2, and 3 are the strongest. Draft 3 has the best opening image and the best chandler intelligence detail (Mrs. Brookes), but it over-writes the emotional beats, particularly after the soldier scene. Draft 2 gives us the actual financial numbers (forty-one pounds vs. fifty-two), which is the most committed to specificity, and has the best single detail about the soldier's boots making no sound — but it over-explains Nan and repeats ""fussy little crest."" Draft 1 is the most consistently restrained. Its chandler negotiation is the sharpest and most dramatic (""unless you've bought a new one and neglected to tell me""), its fire-building is the most specific, and it trusts the reader most consistently. It has the fewest interpretive codas. The marriage paragraph is its weakest moment, but it's briefer and less indulgent than the equivalent in other drafts. The Stainforth letter scene in Draft 1 is the cleanest: the letter itself is quoted in full (the only draft to do this), which lets the reader feel its tone directly rather than having it summarized. Draft 1 wins.
+
+---
+
+TRANSPLANTS
+
+1. FROM DRAFT 3: ""The ink had frozen in the ledger's gutter overnight, a thin black skin I had to crack with the edge of my thumbnail before the nib would take.""
+   GRAFT INTO: The opening line, replacing ""The ink had bled through the third column again, and I pressed my thumb against the smear before it could ruin the facing page.""
+   WHY: It's more specific, more seasonal, and does triple duty — establishing cold, poverty (no heated office), and the narrator's physicality — without any abstraction.
+
+2. FROM DRAFT 2: ""Forty-one pounds, eight shillings in hand. Fifty-two pounds owed.""
+   GRAFT INTO: The second paragraph, where Draft 1 says ""the margin between what the White Hound earned and what it owed was the width of my thumbnail.""
+   WHY: This narrator would think in exact figures; the thumbnail metaphor is vague where the numbers are devastating.
+
+3. FROM DRAFT 2: ""His boots made no sound on the cobbles, which meant the soles were worn through entirely""
+   GRAFT INTO: The soldier's departure, after ""He thanked me again. He went,"" to replace or supplement the narrator watching him leave.
+   WHY: It conveys the same information as Draft 1's description of the boots but through inference rather than direct observation, which is more characteristic of this narrator's intelligence.
+
+4. FROM DRAFT 3: ""Mrs. Brookes and I had a very interesting conversation last week""
+   GRAFT INTO: The chandler negotiation, as an alternative to or supplement for Draft 1's ""I know what you charge the Woolpack and the Red Lion.""
+   WHY: It reveals the narrator's intelligence network through a specific named relationship rather than a general claim, and the dry understatement of ""very interesting"" is perfectly in voice.
+
+5. FROM DRAFT 5: ""And I'll be bringing my ledger.""
+   GRAFT INTO: The final line, replacing ""You'll need a better offer than your nephew, Mr Stainforth.""
+   WHY: It's more specific to the character (the ledger is her weapon), promises concrete action rather than general defiance, and closes on the narrator's defining trait.
+
+---
+
+RANKING: 1, 3, 2, 5, 4, 6
+
+WINNER: 1",clean,claude-opus-4-6,,,,,,
+20260415_121430_20260415_122023_batch1_p56_r03_t0p65,20260415_121430,2026-04-15T12:22:32,batch1,56,3,sentence_construction,anthropic,claude-opus-4-6,0.65,12000,0,source.txt,TheLastRetreat_Ch1_Outline_commercial.txt,profiles.txt,20260415_121430_20260415_122023_batch1_p56_r03_t0p65,micro_prompt_runs/flat_outputs/P56 T0.65 O4.6 R03 20260415_122023.txt,micro_prompt_runs/flat_outputs/20260415_121430_20260415_122023_batch1_p56_r03_t0p65_payload.txt,micro_prompt_runs/flat_outputs/20260415_121430_20260415_122023_batch1_p56_r03_t0p65_prompt.txt,micro_prompt_runs/flat_outputs/20260415_121430_20260415_122023_batch1_p56_r03_t0p65_meta.json,16798bf9110b45766d5b4a43e4502147c21825cc3d580231a1aacc2a6b704ff7,end_turn,44407,3975,3001,False,eval_20260415_123046,False,2.0,"I'll read each draft carefully and assess them as a reader of this genre would.
+
+**Genre inference:** Historical fiction, likely early-to-mid 19th century England. First-person, past tense. Female innkeeper narrator, working class but educated, managing a coaching inn. The voice should be precise, practical, restrained — a woman who counts everything and wastes nothing, including words. The register is literary-commercial historical fiction with a feminist economic thread.
+
+---
+
+**DRAFT 1:**
+
+The strongest opening sequence. The fire-building paragraph — ""kindling first, then the smaller logs crosswise, then the draught opened just enough to pull but not enough to waste"" — commits to specific physical knowledge. The chandler scene with Jessup is the tightest negotiation in the batch: ""Your transport costs haven't changed since March. You're still using the same cart and the same horse, unless you've bought a new one and neglected to tell me."" That line does real dramatic work — it's funny, specific, and reveals character through knowledge. The soldier scene is handled with restraint; ""He held the spoon the way a child holds a pencil — too tightly, with all his fingers wrapped around it"" is a strong observed detail. The closing is mostly good, but the marriage paragraph over-explains: ""I had refused two proposals for exactly this reason, and I did not regret either refusal. I regretted only that the calculation was necessary"" — that last sentence interprets for us. The Stainforth letter scene lands well, though ""the bread dough rose under its cloth, patient and indifferent"" is a touch writerly. The final line works.
+
+**DRAFT 2:**
+
+Opens with a strong concrete image — ""Forty-one pounds, eight shillings in hand. Fifty-two pounds owed"" — the only draft that gives us the actual numbers, which is exactly what this narrator would think in. ""The difference sat in my chest like a stone I had swallowed and could not cough up"" is less successful — a simile doing the work that the numbers already did. The chandler is renamed Poole and the negotiation is good but slightly less sharp than Draft 1's; ""What's gone up is your ambition"" is a strong line. The soldier scene has excellent detail: ""His boots made no sound on the cobbles, which meant the soles were worn through entirely"" — inference from absence, very much this narrator's mode. But the draft over-narrates Nan's watchfulness: ""cataloguing faces and luggage and the particular quality of each traveller's shoes. Nan missed very little. I said nothing about it, because saying something would have implied she needed instruction"" — this explains what should be shown. The Stainforth letter scene is solid but ""his fussy little crest"" appears twice, which feels like a tic. The closing line — ""is going to need a better inn"" — is weaker than Draft 1's because it's a quip rather than a declaration.
+
+**DRAFT 3:**
+
+Opens with the best single image: ""The ink had frozen in the ledger's gutter overnight, a thin black skin I had to crack with the edge of my thumbnail before the nib would take."" That's superb — concrete, seasonal, and tells us about the cold without saying ""it was cold."" The surgeon simile for the ledger works. ""There is a particular pleasure in being the first person awake in a house you know down to its bones"" shifts into a more essayistic register that feels slightly off for this narrator — she wouldn't generalize like that. The chandler scene (Fenton) is strong: ""Mrs. Brookes and I had a very interesting conversation last week"" is excellent because it reveals the network of intelligence this woman maintains. The soldier scene includes ""I think"" after Biggleswade — ""I've people near Biggleswade. I think"" — which is devastating in its quietness. But the emotional coda after the soldier leaves over-renders: ""it sat behind my breastbone like a stone, and then I picked up the ladle and stirred, and the feeling went where I put it, which was away."" The final clause is self-consciously literary. The Stainforth letter introduces a different antagonist (Campion, not the nephew), which is an interesting choice. The closing line — ""is going to need a better inn"" — has the same quip problem as Draft 2.
+
+**DRAFT 4:**
+
+Opens with a clever observation — ""if I could afford better paper I would not need to spend so much on candles to read the worse paper by"" — that's witty and character-revealing. But the draft is the most prone to interpretive summary. ""I wanted one day when the numbers were not the first thing and the last thing"" is the narrator explaining her interiority rather than showing it. The chandler scene (Fossett) is competent but the detail of him picking up the crate and setting it down again in the same spot is excellent physical comedy. The soldier scene is the weakest here: ""He ate the way hungry men eat, which is to say quickly and without looking up"" generalizes where other drafts particularize. ""He was somebody's son. That was all. I did not need to make it more than that"" — the narrator telling us she won't sentimentalize is itself a form of sentimentalizing. The rosary simile for the closing routine is too decorative for this voice. The Stainforth letter gives six weeks to December, which creates a nice structural echo with the ledger's six weeks. The closing line works.
+
+**DRAFT 5:**
+
+This draft has the most relaxed, confident voice in places but also the most padding. ""I wanted, very badly, for the month of November to be a month in which nothing broke. I suspected November had other plans"" — this is charming but it's the narrator being witty for the reader rather than thinking practically. The coachman scene has a good line: ""with the brief, irritated surprise of a man who has been outmanoeuvred by someone he did not consider a combatant."" The chandler (Harkett) negotiation is the least dramatic — the prices are smallest (fourpence), which makes the stakes feel lower. The soldier scene has a strong detail: ""He stood and brought the bowl to the basin without being asked"" — this is the only draft where the soldier does this, and it reveals character through action. But ""Soup costs less than trouble"" is an aphorism that feels planted. The Stainforth letter introduces Lady Day (March 25), giving five months instead of three weeks, which diffuses urgency. The closing line — ""And I'll be bringing my ledger"" — is the best final line in the batch: it's specific, it's in character, and it promises action.
+
+**DRAFT 6:**
+
+Opens with a self-correcting joke about the thumb and blotting paper that's slightly too cute for the voice. ""Not panic -- I would not call it panic"" is the narrator interpreting her own emotions. The draft has the most atmospheric padding: ""the wool was pilling at the cuffs. I had noticed this three days ago and done nothing about it, which was unlike me, and I noticed that it was unlike me, which was worse"" — this is recursive self-analysis that slows the pace. The chandler scene is efficient but unremarkable. The soldier scene has good restraint: ""because watching a man eat when he is that hungry is an intimacy neither of us had asked for"" — though this is telling rather than showing. The Stainforth letter names the narrator as ""Dinah"" for the first time, which is a nice reveal, but the closing — ""my voice was steady, and my hands were not"" — is a cliché that undermines the moment.
+
+---
+
+**Comparison of top contenders:**
+
+Drafts 1, 2, and 3 are the strongest. Draft 3 has the best opening image and the best chandler intelligence detail (Mrs. Brookes), but it over-writes the emotional beats, particularly after the soldier scene. Draft 2 gives us the actual financial numbers (forty-one pounds vs. fifty-two), which is the most committed to specificity, and has the best single detail about the soldier's boots making no sound — but it over-explains Nan and repeats ""fussy little crest."" Draft 1 is the most consistently restrained. Its chandler negotiation is the sharpest and most dramatic (""unless you've bought a new one and neglected to tell me""), its fire-building is the most specific, and it trusts the reader most consistently. It has the fewest interpretive codas. The marriage paragraph is its weakest moment, but it's briefer and less indulgent than the equivalent in other drafts. The Stainforth letter scene in Draft 1 is the cleanest: the letter itself is quoted in full (the only draft to do this), which lets the reader feel its tone directly rather than having it summarized. Draft 1 wins.
+
+---
+
+TRANSPLANTS
+
+1. FROM DRAFT 3: ""The ink had frozen in the ledger's gutter overnight, a thin black skin I had to crack with the edge of my thumbnail before the nib would take.""
+   GRAFT INTO: The opening line, replacing ""The ink had bled through the third column again, and I pressed my thumb against the smear before it could ruin the facing page.""
+   WHY: It's more specific, more seasonal, and does triple duty — establishing cold, poverty (no heated office), and the narrator's physicality — without any abstraction.
+
+2. FROM DRAFT 2: ""Forty-one pounds, eight shillings in hand. Fifty-two pounds owed.""
+   GRAFT INTO: The second paragraph, where Draft 1 says ""the margin between what the White Hound earned and what it owed was the width of my thumbnail.""
+   WHY: This narrator would think in exact figures; the thumbnail metaphor is vague where the numbers are devastating.
+
+3. FROM DRAFT 2: ""His boots made no sound on the cobbles, which meant the soles were worn through entirely""
+   GRAFT INTO: The soldier's departure, after ""He thanked me again. He went,"" to replace or supplement the narrator watching him leave.
+   WHY: It conveys the same information as Draft 1's description of the boots but through inference rather than direct observation, which is more characteristic of this narrator's intelligence.
+
+4. FROM DRAFT 3: ""Mrs. Brookes and I had a very interesting conversation last week""
+   GRAFT INTO: The chandler negotiation, as an alternative to or supplement for Draft 1's ""I know what you charge the Woolpack and the Red Lion.""
+   WHY: It reveals the narrator's intelligence network through a specific named relationship rather than a general claim, and the dry understatement of ""very interesting"" is perfectly in voice.
+
+5. FROM DRAFT 5: ""And I'll be bringing my ledger.""
+   GRAFT INTO: The final line, replacing ""You'll need a better offer than your nephew, Mr Stainforth.""
+   WHY: It's more specific to the character (the ledger is her weapon), promises concrete action rather than general defiance, and closes on the narrator's defining trait.
+
+---
+
+RANKING: 1, 3, 2, 5, 4, 6
+
+WINNER: 1",clean,claude-opus-4-6,,,,,,
+20260415_121430_20260415_122239_batch1_p56_r01_t0p7,20260415_121430,2026-04-15T12:24:48,batch1,56,1,sentence_construction,anthropic,claude-opus-4-6,0.7,12000,0,source.txt,TheLastRetreat_Ch1_Outline_commercial.txt,profiles.txt,20260415_121430_20260415_122239_batch1_p56_r01_t0p7,micro_prompt_runs/flat_outputs/P56 T0.7 O4.6 R01 20260415_122239.txt,micro_prompt_runs/flat_outputs/20260415_121430_20260415_122239_batch1_p56_r01_t0p7_payload.txt,micro_prompt_runs/flat_outputs/20260415_121430_20260415_122239_batch1_p56_r01_t0p7_prompt.txt,micro_prompt_runs/flat_outputs/20260415_121430_20260415_122239_batch1_p56_r01_t0p7_meta.json,8f1b02dad26937bdef2fde8f02d1668c021132cd4a8c337383646080051cf989,end_turn,44407,3944,3096,False,eval_20260415_123046,False,5.0,"I'll read each draft carefully and assess them as a reader of this genre would.
+
+**Genre inference:** Historical fiction, likely early-to-mid 19th century England. First-person, past tense. Female innkeeper narrator, working class but educated, managing a coaching inn. The voice should be precise, practical, restrained — a woman who counts everything and wastes nothing, including words. The register is literary-commercial historical fiction with a feminist economic thread.
+
+---
+
+**DRAFT 1:**
+
+The strongest opening sequence. The fire-building paragraph — ""kindling first, then the smaller logs crosswise, then the draught opened just enough to pull but not enough to waste"" — commits to specific physical knowledge. The chandler scene with Jessup is the tightest negotiation in the batch: ""Your transport costs haven't changed since March. You're still using the same cart and the same horse, unless you've bought a new one and neglected to tell me."" That line does real dramatic work — it's funny, specific, and reveals character through knowledge. The soldier scene is handled with restraint; ""He held the spoon the way a child holds a pencil — too tightly, with all his fingers wrapped around it"" is a strong observed detail. The closing is mostly good, but the marriage paragraph over-explains: ""I had refused two proposals for exactly this reason, and I did not regret either refusal. I regretted only that the calculation was necessary"" — that last sentence interprets for us. The Stainforth letter scene lands well, though ""the bread dough rose under its cloth, patient and indifferent"" is a touch writerly. The final line works.
+
+**DRAFT 2:**
+
+Opens with a strong concrete image — ""Forty-one pounds, eight shillings in hand. Fifty-two pounds owed"" — the only draft that gives us the actual numbers, which is exactly what this narrator would think in. ""The difference sat in my chest like a stone I had swallowed and could not cough up"" is less successful — a simile doing the work that the numbers already did. The chandler is renamed Poole and the negotiation is good but slightly less sharp than Draft 1's; ""What's gone up is your ambition"" is a strong line. The soldier scene has excellent detail: ""His boots made no sound on the cobbles, which meant the soles were worn through entirely"" — inference from absence, very much this narrator's mode. But the draft over-narrates Nan's watchfulness: ""cataloguing faces and luggage and the particular quality of each traveller's shoes. Nan missed very little. I said nothing about it, because saying something would have implied she needed instruction"" — this explains what should be shown. The Stainforth letter scene is solid but ""his fussy little crest"" appears twice, which feels like a tic. The closing line — ""is going to need a better inn"" — is weaker than Draft 1's because it's a quip rather than a declaration.
+
+**DRAFT 3:**
+
+Opens with the best single image: ""The ink had frozen in the ledger's gutter overnight, a thin black skin I had to crack with the edge of my thumbnail before the nib would take."" That's superb — concrete, seasonal, and tells us about the cold without saying ""it was cold."" The surgeon simile for the ledger works. ""There is a particular pleasure in being the first person awake in a house you know down to its bones"" shifts into a more essayistic register that feels slightly off for this narrator — she wouldn't generalize like that. The chandler scene (Fenton) is strong: ""Mrs. Brookes and I had a very interesting conversation last week"" is excellent because it reveals the network of intelligence this woman maintains. The soldier scene includes ""I think"" after Biggleswade — ""I've people near Biggleswade. I think"" — which is devastating in its quietness. But the emotional coda after the soldier leaves over-renders: ""it sat behind my breastbone like a stone, and then I picked up the ladle and stirred, and the feeling went where I put it, which was away."" The final clause is self-consciously literary. The Stainforth letter introduces a different antagonist (Campion, not the nephew), which is an interesting choice. The closing line — ""is going to need a better inn"" — has the same quip problem as Draft 2.
+
+**DRAFT 4:**
+
+Opens with a clever observation — ""if I could afford better paper I would not need to spend so much on candles to read the worse paper by"" — that's witty and character-revealing. But the draft is the most prone to interpretive summary. ""I wanted one day when the numbers were not the first thing and the last thing"" is the narrator explaining her interiority rather than showing it. The chandler scene (Fossett) is competent but the detail of him picking up the crate and setting it down again in the same spot is excellent physical comedy. The soldier scene is the weakest here: ""He ate the way hungry men eat, which is to say quickly and without looking up"" generalizes where other drafts particularize. ""He was somebody's son. That was all. I did not need to make it more than that"" — the narrator telling us she won't sentimentalize is itself a form of sentimentalizing. The rosary simile for the closing routine is too decorative for this voice. The Stainforth letter gives six weeks to December, which creates a nice structural echo with the ledger's six weeks. The closing line works.
+
+**DRAFT 5:**
+
+This draft has the most relaxed, confident voice in places but also the most padding. ""I wanted, very badly, for the month of November to be a month in which nothing broke. I suspected November had other plans"" — this is charming but it's the narrator being witty for the reader rather than thinking practically. The coachman scene has a good line: ""with the brief, irritated surprise of a man who has been outmanoeuvred by someone he did not consider a combatant."" The chandler (Harkett) negotiation is the least dramatic — the prices are smallest (fourpence), which makes the stakes feel lower. The soldier scene has a strong detail: ""He stood and brought the bowl to the basin without being asked"" — this is the only draft where the soldier does this, and it reveals character through action. But ""Soup costs less than trouble"" is an aphorism that feels planted. The Stainforth letter introduces Lady Day (March 25), giving five months instead of three weeks, which diffuses urgency. The closing line — ""And I'll be bringing my ledger"" — is the best final line in the batch: it's specific, it's in character, and it promises action.
+
+**DRAFT 6:**
+
+Opens with a self-correcting joke about the thumb and blotting paper that's slightly too cute for the voice. ""Not panic -- I would not call it panic"" is the narrator interpreting her own emotions. The draft has the most atmospheric padding: ""the wool was pilling at the cuffs. I had noticed this three days ago and done nothing about it, which was unlike me, and I noticed that it was unlike me, which was worse"" — this is recursive self-analysis that slows the pace. The chandler scene is efficient but unremarkable. The soldier scene has good restraint: ""because watching a man eat when he is that hungry is an intimacy neither of us had asked for"" — though this is telling rather than showing. The Stainforth letter names the narrator as ""Dinah"" for the first time, which is a nice reveal, but the closing — ""my voice was steady, and my hands were not"" — is a cliché that undermines the moment.
+
+---
+
+**Comparison of top contenders:**
+
+Drafts 1, 2, and 3 are the strongest. Draft 3 has the best opening image and the best chandler intelligence detail (Mrs. Brookes), but it over-writes the emotional beats, particularly after the soldier scene. Draft 2 gives us the actual financial numbers (forty-one pounds vs. fifty-two), which is the most committed to specificity, and has the best single detail about the soldier's boots making no sound — but it over-explains Nan and repeats ""fussy little crest."" Draft 1 is the most consistently restrained. Its chandler negotiation is the sharpest and most dramatic (""unless you've bought a new one and neglected to tell me""), its fire-building is the most specific, and it trusts the reader most consistently. It has the fewest interpretive codas. The marriage paragraph is its weakest moment, but it's briefer and less indulgent than the equivalent in other drafts. The Stainforth letter scene in Draft 1 is the cleanest: the letter itself is quoted in full (the only draft to do this), which lets the reader feel its tone directly rather than having it summarized. Draft 1 wins.
+
+---
+
+TRANSPLANTS
+
+1. FROM DRAFT 3: ""The ink had frozen in the ledger's gutter overnight, a thin black skin I had to crack with the edge of my thumbnail before the nib would take.""
+   GRAFT INTO: The opening line, replacing ""The ink had bled through the third column again, and I pressed my thumb against the smear before it could ruin the facing page.""
+   WHY: It's more specific, more seasonal, and does triple duty — establishing cold, poverty (no heated office), and the narrator's physicality — without any abstraction.
+
+2. FROM DRAFT 2: ""Forty-one pounds, eight shillings in hand. Fifty-two pounds owed.""
+   GRAFT INTO: The second paragraph, where Draft 1 says ""the margin between what the White Hound earned and what it owed was the width of my thumbnail.""
+   WHY: This narrator would think in exact figures; the thumbnail metaphor is vague where the numbers are devastating.
+
+3. FROM DRAFT 2: ""His boots made no sound on the cobbles, which meant the soles were worn through entirely""
+   GRAFT INTO: The soldier's departure, after ""He thanked me again. He went,"" to replace or supplement the narrator watching him leave.
+   WHY: It conveys the same information as Draft 1's description of the boots but through inference rather than direct observation, which is more characteristic of this narrator's intelligence.
+
+4. FROM DRAFT 3: ""Mrs. Brookes and I had a very interesting conversation last week""
+   GRAFT INTO: The chandler negotiation, as an alternative to or supplement for Draft 1's ""I know what you charge the Woolpack and the Red Lion.""
+   WHY: It reveals the narrator's intelligence network through a specific named relationship rather than a general claim, and the dry understatement of ""very interesting"" is perfectly in voice.
+
+5. FROM DRAFT 5: ""And I'll be bringing my ledger.""
+   GRAFT INTO: The final line, replacing ""You'll need a better offer than your nephew, Mr Stainforth.""
+   WHY: It's more specific to the character (the ledger is her weapon), promises concrete action rather than general defiance, and closes on the narrator's defining trait.
+
+---
+
+RANKING: 1, 3, 2, 5, 4, 6
+
+WINNER: 1",clean,claude-opus-4-6,,,,,,
+20260415_121430_20260415_122455_batch1_p56_r02_t0p7,20260415_121430,2026-04-15T12:27:05,batch1,56,2,sentence_construction,anthropic,claude-opus-4-6,0.7,12000,0,source.txt,TheLastRetreat_Ch1_Outline_commercial.txt,profiles.txt,20260415_121430_20260415_122455_batch1_p56_r02_t0p7,micro_prompt_runs/flat_outputs/P56 T0.7 O4.6 R02 20260415_122455.txt,micro_prompt_runs/flat_outputs/20260415_121430_20260415_122455_batch1_p56_r02_t0p7_payload.txt,micro_prompt_runs/flat_outputs/20260415_121430_20260415_122455_batch1_p56_r02_t0p7_prompt.txt,micro_prompt_runs/flat_outputs/20260415_121430_20260415_122455_batch1_p56_r02_t0p7_meta.json,f3f5b02ccabbeb2b606f82f96d4bf727c15d32102ef2cf8fc12b18c53c33835f,end_turn,44407,3976,3113,False,eval_20260415_123046,False,4.0,"I'll read each draft carefully and assess them as a reader of this genre would.
+
+**Genre inference:** Historical fiction, likely early-to-mid 19th century England. First-person, past tense. Female innkeeper narrator, working class but educated, managing a coaching inn. The voice should be precise, practical, restrained — a woman who counts everything and wastes nothing, including words. The register is literary-commercial historical fiction with a feminist economic thread.
+
+---
+
+**DRAFT 1:**
+
+The strongest opening sequence. The fire-building paragraph — ""kindling first, then the smaller logs crosswise, then the draught opened just enough to pull but not enough to waste"" — commits to specific physical knowledge. The chandler scene with Jessup is the tightest negotiation in the batch: ""Your transport costs haven't changed since March. You're still using the same cart and the same horse, unless you've bought a new one and neglected to tell me."" That line does real dramatic work — it's funny, specific, and reveals character through knowledge. The soldier scene is handled with restraint; ""He held the spoon the way a child holds a pencil — too tightly, with all his fingers wrapped around it"" is a strong observed detail. The closing is mostly good, but the marriage paragraph over-explains: ""I had refused two proposals for exactly this reason, and I did not regret either refusal. I regretted only that the calculation was necessary"" — that last sentence interprets for us. The Stainforth letter scene lands well, though ""the bread dough rose under its cloth, patient and indifferent"" is a touch writerly. The final line works.
+
+**DRAFT 2:**
+
+Opens with a strong concrete image — ""Forty-one pounds, eight shillings in hand. Fifty-two pounds owed"" — the only draft that gives us the actual numbers, which is exactly what this narrator would think in. ""The difference sat in my chest like a stone I had swallowed and could not cough up"" is less successful — a simile doing the work that the numbers already did. The chandler is renamed Poole and the negotiation is good but slightly less sharp than Draft 1's; ""What's gone up is your ambition"" is a strong line. The soldier scene has excellent detail: ""His boots made no sound on the cobbles, which meant the soles were worn through entirely"" — inference from absence, very much this narrator's mode. But the draft over-narrates Nan's watchfulness: ""cataloguing faces and luggage and the particular quality of each traveller's shoes. Nan missed very little. I said nothing about it, because saying something would have implied she needed instruction"" — this explains what should be shown. The Stainforth letter scene is solid but ""his fussy little crest"" appears twice, which feels like a tic. The closing line — ""is going to need a better inn"" — is weaker than Draft 1's because it's a quip rather than a declaration.
+
+**DRAFT 3:**
+
+Opens with the best single image: ""The ink had frozen in the ledger's gutter overnight, a thin black skin I had to crack with the edge of my thumbnail before the nib would take."" That's superb — concrete, seasonal, and tells us about the cold without saying ""it was cold."" The surgeon simile for the ledger works. ""There is a particular pleasure in being the first person awake in a house you know down to its bones"" shifts into a more essayistic register that feels slightly off for this narrator — she wouldn't generalize like that. The chandler scene (Fenton) is strong: ""Mrs. Brookes and I had a very interesting conversation last week"" is excellent because it reveals the network of intelligence this woman maintains. The soldier scene includes ""I think"" after Biggleswade — ""I've people near Biggleswade. I think"" — which is devastating in its quietness. But the emotional coda after the soldier leaves over-renders: ""it sat behind my breastbone like a stone, and then I picked up the ladle and stirred, and the feeling went where I put it, which was away."" The final clause is self-consciously literary. The Stainforth letter introduces a different antagonist (Campion, not the nephew), which is an interesting choice. The closing line — ""is going to need a better inn"" — has the same quip problem as Draft 2.
+
+**DRAFT 4:**
+
+Opens with a clever observation — ""if I could afford better paper I would not need to spend so much on candles to read the worse paper by"" — that's witty and character-revealing. But the draft is the most prone to interpretive summary. ""I wanted one day when the numbers were not the first thing and the last thing"" is the narrator explaining her interiority rather than showing it. The chandler scene (Fossett) is competent but the detail of him picking up the crate and setting it down again in the same spot is excellent physical comedy. The soldier scene is the weakest here: ""He ate the way hungry men eat, which is to say quickly and without looking up"" generalizes where other drafts particularize. ""He was somebody's son. That was all. I did not need to make it more than that"" — the narrator telling us she won't sentimentalize is itself a form of sentimentalizing. The rosary simile for the closing routine is too decorative for this voice. The Stainforth letter gives six weeks to December, which creates a nice structural echo with the ledger's six weeks. The closing line works.
+
+**DRAFT 5:**
+
+This draft has the most relaxed, confident voice in places but also the most padding. ""I wanted, very badly, for the month of November to be a month in which nothing broke. I suspected November had other plans"" — this is charming but it's the narrator being witty for the reader rather than thinking practically. The coachman scene has a good line: ""with the brief, irritated surprise of a man who has been outmanoeuvred by someone he did not consider a combatant."" The chandler (Harkett) negotiation is the least dramatic — the prices are smallest (fourpence), which makes the stakes feel lower. The soldier scene has a strong detail: ""He stood and brought the bowl to the basin without being asked"" — this is the only draft where the soldier does this, and it reveals character through action. But ""Soup costs less than trouble"" is an aphorism that feels planted. The Stainforth letter introduces Lady Day (March 25), giving five months instead of three weeks, which diffuses urgency. The closing line — ""And I'll be bringing my ledger"" — is the best final line in the batch: it's specific, it's in character, and it promises action.
+
+**DRAFT 6:**
+
+Opens with a self-correcting joke about the thumb and blotting paper that's slightly too cute for the voice. ""Not panic -- I would not call it panic"" is the narrator interpreting her own emotions. The draft has the most atmospheric padding: ""the wool was pilling at the cuffs. I had noticed this three days ago and done nothing about it, which was unlike me, and I noticed that it was unlike me, which was worse"" — this is recursive self-analysis that slows the pace. The chandler scene is efficient but unremarkable. The soldier scene has good restraint: ""because watching a man eat when he is that hungry is an intimacy neither of us had asked for"" — though this is telling rather than showing. The Stainforth letter names the narrator as ""Dinah"" for the first time, which is a nice reveal, but the closing — ""my voice was steady, and my hands were not"" — is a cliché that undermines the moment.
+
+---
+
+**Comparison of top contenders:**
+
+Drafts 1, 2, and 3 are the strongest. Draft 3 has the best opening image and the best chandler intelligence detail (Mrs. Brookes), but it over-writes the emotional beats, particularly after the soldier scene. Draft 2 gives us the actual financial numbers (forty-one pounds vs. fifty-two), which is the most committed to specificity, and has the best single detail about the soldier's boots making no sound — but it over-explains Nan and repeats ""fussy little crest."" Draft 1 is the most consistently restrained. Its chandler negotiation is the sharpest and most dramatic (""unless you've bought a new one and neglected to tell me""), its fire-building is the most specific, and it trusts the reader most consistently. It has the fewest interpretive codas. The marriage paragraph is its weakest moment, but it's briefer and less indulgent than the equivalent in other drafts. The Stainforth letter scene in Draft 1 is the cleanest: the letter itself is quoted in full (the only draft to do this), which lets the reader feel its tone directly rather than having it summarized. Draft 1 wins.
+
+---
+
+TRANSPLANTS
+
+1. FROM DRAFT 3: ""The ink had frozen in the ledger's gutter overnight, a thin black skin I had to crack with the edge of my thumbnail before the nib would take.""
+   GRAFT INTO: The opening line, replacing ""The ink had bled through the third column again, and I pressed my thumb against the smear before it could ruin the facing page.""
+   WHY: It's more specific, more seasonal, and does triple duty — establishing cold, poverty (no heated office), and the narrator's physicality — without any abstraction.
+
+2. FROM DRAFT 2: ""Forty-one pounds, eight shillings in hand. Fifty-two pounds owed.""
+   GRAFT INTO: The second paragraph, where Draft 1 says ""the margin between what the White Hound earned and what it owed was the width of my thumbnail.""
+   WHY: This narrator would think in exact figures; the thumbnail metaphor is vague where the numbers are devastating.
+
+3. FROM DRAFT 2: ""His boots made no sound on the cobbles, which meant the soles were worn through entirely""
+   GRAFT INTO: The soldier's departure, after ""He thanked me again. He went,"" to replace or supplement the narrator watching him leave.
+   WHY: It conveys the same information as Draft 1's description of the boots but through inference rather than direct observation, which is more characteristic of this narrator's intelligence.
+
+4. FROM DRAFT 3: ""Mrs. Brookes and I had a very interesting conversation last week""
+   GRAFT INTO: The chandler negotiation, as an alternative to or supplement for Draft 1's ""I know what you charge the Woolpack and the Red Lion.""
+   WHY: It reveals the narrator's intelligence network through a specific named relationship rather than a general claim, and the dry understatement of ""very interesting"" is perfectly in voice.
+
+5. FROM DRAFT 5: ""And I'll be bringing my ledger.""
+   GRAFT INTO: The final line, replacing ""You'll need a better offer than your nephew, Mr Stainforth.""
+   WHY: It's more specific to the character (the ledger is her weapon), promises concrete action rather than general defiance, and closes on the narrator's defining trait.
+
+---
+
+RANKING: 1, 3, 2, 5, 4, 6
+
+WINNER: 1",clean,claude-opus-4-6,,,,,,
+20260415_121430_20260415_122713_batch1_p56_r03_t0p7,20260415_121430,2026-04-15T12:29:16,batch1,56,3,sentence_construction,anthropic,claude-opus-4-6,0.7,12000,0,source.txt,TheLastRetreat_Ch1_Outline_commercial.txt,profiles.txt,20260415_121430_20260415_122713_batch1_p56_r03_t0p7,micro_prompt_runs/flat_outputs/P56 T0.7 O4.6 R03 20260415_122713.txt,micro_prompt_runs/flat_outputs/20260415_121430_20260415_122713_batch1_p56_r03_t0p7_payload.txt,micro_prompt_runs/flat_outputs/20260415_121430_20260415_122713_batch1_p56_r03_t0p7_prompt.txt,micro_prompt_runs/flat_outputs/20260415_121430_20260415_122713_batch1_p56_r03_t0p7_meta.json,8a3a4dac9f527a66d011eeaade45272735c2fb16093a13bfa1a83a5829a99f55,end_turn,44407,3702,2905,False,eval_20260415_123046,False,6.0,"I'll read each draft carefully and assess them as a reader of this genre would.
+
+**Genre inference:** Historical fiction, likely early-to-mid 19th century England. First-person, past tense. Female innkeeper narrator, working class but educated, managing a coaching inn. The voice should be precise, practical, restrained — a woman who counts everything and wastes nothing, including words. The register is literary-commercial historical fiction with a feminist economic thread.
+
+---
+
+**DRAFT 1:**
+
+The strongest opening sequence. The fire-building paragraph — ""kindling first, then the smaller logs crosswise, then the draught opened just enough to pull but not enough to waste"" — commits to specific physical knowledge. The chandler scene with Jessup is the tightest negotiation in the batch: ""Your transport costs haven't changed since March. You're still using the same cart and the same horse, unless you've bought a new one and neglected to tell me."" That line does real dramatic work — it's funny, specific, and reveals character through knowledge. The soldier scene is handled with restraint; ""He held the spoon the way a child holds a pencil — too tightly, with all his fingers wrapped around it"" is a strong observed detail. The closing is mostly good, but the marriage paragraph over-explains: ""I had refused two proposals for exactly this reason, and I did not regret either refusal. I regretted only that the calculation was necessary"" — that last sentence interprets for us. The Stainforth letter scene lands well, though ""the bread dough rose under its cloth, patient and indifferent"" is a touch writerly. The final line works.
+
+**DRAFT 2:**
+
+Opens with a strong concrete image — ""Forty-one pounds, eight shillings in hand. Fifty-two pounds owed"" — the only draft that gives us the actual numbers, which is exactly what this narrator would think in. ""The difference sat in my chest like a stone I had swallowed and could not cough up"" is less successful — a simile doing the work that the numbers already did. The chandler is renamed Poole and the negotiation is good but slightly less sharp than Draft 1's; ""What's gone up is your ambition"" is a strong line. The soldier scene has excellent detail: ""His boots made no sound on the cobbles, which meant the soles were worn through entirely"" — inference from absence, very much this narrator's mode. But the draft over-narrates Nan's watchfulness: ""cataloguing faces and luggage and the particular quality of each traveller's shoes. Nan missed very little. I said nothing about it, because saying something would have implied she needed instruction"" — this explains what should be shown. The Stainforth letter scene is solid but ""his fussy little crest"" appears twice, which feels like a tic. The closing line — ""is going to need a better inn"" — is weaker than Draft 1's because it's a quip rather than a declaration.
+
+**DRAFT 3:**
+
+Opens with the best single image: ""The ink had frozen in the ledger's gutter overnight, a thin black skin I had to crack with the edge of my thumbnail before the nib would take."" That's superb — concrete, seasonal, and tells us about the cold without saying ""it was cold."" The surgeon simile for the ledger works. ""There is a particular pleasure in being the first person awake in a house you know down to its bones"" shifts into a more essayistic register that feels slightly off for this narrator — she wouldn't generalize like that. The chandler scene (Fenton) is strong: ""Mrs. Brookes and I had a very interesting conversation last week"" is excellent because it reveals the network of intelligence this woman maintains. The soldier scene includes ""I think"" after Biggleswade — ""I've people near Biggleswade. I think"" — which is devastating in its quietness. But the emotional coda after the soldier leaves over-renders: ""it sat behind my breastbone like a stone, and then I picked up the ladle and stirred, and the feeling went where I put it, which was away."" The final clause is self-consciously literary. The Stainforth letter introduces a different antagonist (Campion, not the nephew), which is an interesting choice. The closing line — ""is going to need a better inn"" — has the same quip problem as Draft 2.
+
+**DRAFT 4:**
+
+Opens with a clever observation — ""if I could afford better paper I would not need to spend so much on candles to read the worse paper by"" — that's witty and character-revealing. But the draft is the most prone to interpretive summary. ""I wanted one day when the numbers were not the first thing and the last thing"" is the narrator explaining her interiority rather than showing it. The chandler scene (Fossett) is competent but the detail of him picking up the crate and setting it down again in the same spot is excellent physical comedy. The soldier scene is the weakest here: ""He ate the way hungry men eat, which is to say quickly and without looking up"" generalizes where other drafts particularize. ""He was somebody's son. That was all. I did not need to make it more than that"" — the narrator telling us she won't sentimentalize is itself a form of sentimentalizing. The rosary simile for the closing routine is too decorative for this voice. The Stainforth letter gives six weeks to December, which creates a nice structural echo with the ledger's six weeks. The closing line works.
+
+**DRAFT 5:**
+
+This draft has the most relaxed, confident voice in places but also the most padding. ""I wanted, very badly, for the month of November to be a month in which nothing broke. I suspected November had other plans"" — this is charming but it's the narrator being witty for the reader rather than thinking practically. The coachman scene has a good line: ""with the brief, irritated surprise of a man who has been outmanoeuvred by someone he did not consider a combatant."" The chandler (Harkett) negotiation is the least dramatic — the prices are smallest (fourpence), which makes the stakes feel lower. The soldier scene has a strong detail: ""He stood and brought the bowl to the basin without being asked"" — this is the only draft where the soldier does this, and it reveals character through action. But ""Soup costs less than trouble"" is an aphorism that feels planted. The Stainforth letter introduces Lady Day (March 25), giving five months instead of three weeks, which diffuses urgency. The closing line — ""And I'll be bringing my ledger"" — is the best final line in the batch: it's specific, it's in character, and it promises action.
+
+**DRAFT 6:**
+
+Opens with a self-correcting joke about the thumb and blotting paper that's slightly too cute for the voice. ""Not panic -- I would not call it panic"" is the narrator interpreting her own emotions. The draft has the most atmospheric padding: ""the wool was pilling at the cuffs. I had noticed this three days ago and done nothing about it, which was unlike me, and I noticed that it was unlike me, which was worse"" — this is recursive self-analysis that slows the pace. The chandler scene is efficient but unremarkable. The soldier scene has good restraint: ""because watching a man eat when he is that hungry is an intimacy neither of us had asked for"" — though this is telling rather than showing. The Stainforth letter names the narrator as ""Dinah"" for the first time, which is a nice reveal, but the closing — ""my voice was steady, and my hands were not"" — is a cliché that undermines the moment.
+
+---
+
+**Comparison of top contenders:**
+
+Drafts 1, 2, and 3 are the strongest. Draft 3 has the best opening image and the best chandler intelligence detail (Mrs. Brookes), but it over-writes the emotional beats, particularly after the soldier scene. Draft 2 gives us the actual financial numbers (forty-one pounds vs. fifty-two), which is the most committed to specificity, and has the best single detail about the soldier's boots making no sound — but it over-explains Nan and repeats ""fussy little crest."" Draft 1 is the most consistently restrained. Its chandler negotiation is the sharpest and most dramatic (""unless you've bought a new one and neglected to tell me""), its fire-building is the most specific, and it trusts the reader most consistently. It has the fewest interpretive codas. The marriage paragraph is its weakest moment, but it's briefer and less indulgent than the equivalent in other drafts. The Stainforth letter scene in Draft 1 is the cleanest: the letter itself is quoted in full (the only draft to do this), which lets the reader feel its tone directly rather than having it summarized. Draft 1 wins.
+
+---
+
+TRANSPLANTS
+
+1. FROM DRAFT 3: ""The ink had frozen in the ledger's gutter overnight, a thin black skin I had to crack with the edge of my thumbnail before the nib would take.""
+   GRAFT INTO: The opening line, replacing ""The ink had bled through the third column again, and I pressed my thumb against the smear before it could ruin the facing page.""
+   WHY: It's more specific, more seasonal, and does triple duty — establishing cold, poverty (no heated office), and the narrator's physicality — without any abstraction.
+
+2. FROM DRAFT 2: ""Forty-one pounds, eight shillings in hand. Fifty-two pounds owed.""
+   GRAFT INTO: The second paragraph, where Draft 1 says ""the margin between what the White Hound earned and what it owed was the width of my thumbnail.""
+   WHY: This narrator would think in exact figures; the thumbnail metaphor is vague where the numbers are devastating.
+
+3. FROM DRAFT 2: ""His boots made no sound on the cobbles, which meant the soles were worn through entirely""
+   GRAFT INTO: The soldier's departure, after ""He thanked me again. He went,"" to replace or supplement the narrator watching him leave.
+   WHY: It conveys the same information as Draft 1's description of the boots but through inference rather than direct observation, which is more characteristic of this narrator's intelligence.
+
+4. FROM DRAFT 3: ""Mrs. Brookes and I had a very interesting conversation last week""
+   GRAFT INTO: The chandler negotiation, as an alternative to or supplement for Draft 1's ""I know what you charge the Woolpack and the Red Lion.""
+   WHY: It reveals the narrator's intelligence network through a specific named relationship rather than a general claim, and the dry understatement of ""very interesting"" is perfectly in voice.
+
+5. FROM DRAFT 5: ""And I'll be bringing my ledger.""
+   GRAFT INTO: The final line, replacing ""You'll need a better offer than your nephew, Mr Stainforth.""
+   WHY: It's more specific to the character (the ledger is her weapon), promises concrete action rather than general defiance, and closes on the narrator's defining trait.
+
+---
+
+RANKING: 1, 3, 2, 5, 4, 6
+
+WINNER: 1",clean,claude-opus-4-6,,,,,,
