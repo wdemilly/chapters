@@ -1831,3 +1831,4 @@ TRANSPLANTS
 RANKING: 4, 5, 6, 1, 2, 3
 
 WINNER: 4",clean,claude-opus-4-6,,,,,,
+20260415_151635_20260415_151839_batch1_p56_r01_t0p6,20260415_151635,2026-04-15T15:20:45,batch1,56,1,sentence_construction,anthropic,claude-opus-4-6,0.6,12000,0,source.txt,TheLastRetreat_Ch1_Outline_commercial.txt,profiles.txt,20260415_151635_20260415_151839_batch1_p56_r01_t0p6,micro_prompt_runs/flat_outputs/P56 T0.6 O4.6 R01 20260415_151839.txt,micro_prompt_runs/flat_outputs/20260415_151635_20260415_151839_batch1_p56_r01_t0p6_payload.txt,micro_prompt_runs/flat_outputs/20260415_151635_20260415_151839_batch1_p56_r01_t0p6_prompt.txt,micro_prompt_runs/flat_outputs/20260415_151635_20260415_151839_batch1_p56_r01_t0p6_meta.json,a559bcc38a63ee6e1c478e94c08827ff5805749055ea4d2c7bb5dc8d48589390,end_turn,44407,3960,3087,False,,False,,,,,,,,,,
