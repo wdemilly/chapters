@@ -1,0 +1,26 @@
+Transplant candidates for winner: P57 T0.7 O4.6 Winner 20260415_194215.txt
+Winner run_id: 20260415_192834_20260415_193048_batch1_p57_r01_t0p7
+Evaluator: claude-opus-4-6
+Evaluation id: eval_20260415_194215
+
+======================================================================
+
+1. FROM DRAFT 3 (run 20260415_192834_20260415_193543_batch1_p57_r01_t0p9)
+   QUOTE: "Then we'd best make them unfavourable."
+   GRAFT INTO: The final line of Draft 1, replacing "You'll need a better offer than that, Mr. Stainforth."
+   WHY: It's more active and strategic — it tells us the protagonist is going to *do* something, not just refuse — and it stops cleaner without the preceding stage directions about speaking "to the quiet and the dark."
+
+2. FROM DRAFT 3 (run 20260415_192834_20260415_193543_batch1_p57_r01_t0p9)
+   QUOTE: "the nib wanted replacing, which meant fourpence she'd rather spend on salt"
+   GRAFT INTO: The opening sentence of Draft 1 (adapted to first person: "the nib wanted replacing, which meant fourpence I'd rather spend on salt"), either replacing or supplementing the ink-drying-wrong detail.
+   WHY: It immediately establishes the economic pressure and the protagonist's habit of converting everything into cost, which is the chapter's central preoccupation, in a single concrete image.
+
+3. FROM DRAFT 4 (run 20260415_192834_20260415_193817_batch1_p57_r02_t0p9)
+   QUOTE: "My sister's in Huntingdon. If she's still there."
+   GRAFT INTO: The soldier's answer to "Where are you headed?" in Draft 1, replacing "North... Wherever there's work."
+   WHY: The conditional "if she's still there" does more dramatic work in fewer words — it implies loss, displacement, and uncertainty without explaining any of it, and it's more specific than the generic "wherever there's work."
+
+4. FROM DRAFT 2 (run 20260415_192834_20260415_193332_batch1_p57_r02_t0p7)
+   QUOTE: "There's a carrier's cart leaves from the crossroads at two,"
+   GRAFT INTO: After the soldier finishes eating in Draft 1, as an addition to the exchange before he leaves.
+   WHY: It gives the protagonist a concrete, practical action beyond feeding him — it's consistent with her character as someone who solves problems with local knowledge — and it makes the scene's compassion feel less passive.
