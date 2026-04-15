@@ -1,0 +1,13 @@
+Graft log for: P57 T0.7 O4.6 Winner 20260415_213310 Grafted.txt
+Source winner: P57 T0.7 O4.6 Winner 20260415_213310.txt
+Model: claude-opus-4-6
+Stop reason: end_turn
+======================================================================
+
+1. APPLIED: Inserted the cobbler line into the young man's departure scene, between the Baldock direction and the Stamford road direction, adjusting slightly to integrate the boot reference and the protagonist's full name naturally into the dialogue.
+
+2. APPLIED: Added "I'll take an extra dozen now against December, paid on delivery" to the end of the protagonist's final negotiation line, after "save us both the trouble of pretending?" and before the stare-down beat.
+
+3. APPLIED: Inserted the stag's head description into the letter scene, expanding the seal description so it flows from "pressed deep" into the heraldry detail, then continuing with the existing "I knew the hand" sentence.
+
+4. APPLIED: Added "one hand curled around the bowl as if someone might take it" as an appositional detail at the end of the sentence describing the young man's careful eating, before the next sentence about his silence.
