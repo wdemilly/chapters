@@ -1,0 +1,11 @@
+Graft log for: P56 T0.9 O4.6 Winner 20260415_131525 Grafted.txt
+Source winner: P56 T0.9 O4.6 Winner 20260415_131525.txt
+Model: claude-opus-4-6
+Stop reason: end_turn
+======================================================================
+
+1. APPLIED: Inserted "Not for anything so grand as rescue, but for a morning that starts warm." as a new sentence after the fantasy of walking out the front door, just before the nine-seconds line.
+2. APPLIED: Added the offside-leader observation as new dialogue and a brief bridging action after the road-advice exchange, before taking her arm back.
+3. APPLIED: Inserted the line about Stainforth closing with regards to her late mother's memory as a new sentence between the block-quoted letter and the "fourteenth of November" paragraph.
+4. APPLIED: Inserted "Your rendering is done by your eldest boy, whom you do not pay." into the narrator's speech during the chandler negotiation, between the Jessop's tallow detail and the Red Lion price detail.
+5. APPLIED: Replaced the original boot description with the simile "the left sole separating from the upper like a mouth trying to speak, and through the gap I could see the grey wool of his stocking," merging the transplant's image with the winner's stocking detail.
