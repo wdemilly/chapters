@@ -1,0 +1,11 @@
+Graft log for: P56 T0.65 O4.6 Winner 20260415_123046 Grafted.txt
+Source winner: P56 T0.65 O4.6 Winner 20260415_123046.txt
+Model: claude-opus-4-6
+Stop reason: end_turn
+======================================================================
+
+1. APPLIED: Replaced the opening line with the frozen-ink image, which better establishes cold, poverty, and physicality.
+2. APPLIED: Replaced the thumbnail metaphor in the second paragraph with the exact figures "forty-one pounds, eight shillings in hand against fifty-two pounds owed," integrating them into the existing sentence structure.
+3. APPLIED: Inserted "His boots made no sound on the cobbles, which meant the soles were worn through entirely" after "He thanked me again. He went." as a new closing sentence to that paragraph.
+4. APPLIED: Wove "Mrs Brookes and I had a very interesting conversation last week about what you charge" into the chandler negotiation line, replacing the general claim "I know what you charge" with the specific named source.
+5. APPLIED: Appended "And I'll be bringing my ledger." to the final spoken line, keeping the original sentence and adding the ledger detail as a second beat of dialogue.
