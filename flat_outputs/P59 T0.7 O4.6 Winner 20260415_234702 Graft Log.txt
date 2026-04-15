@@ -1,0 +1,13 @@
+Graft log for: P59 T0.7 O4.6 Winner 20260415_234702 Grafted.txt
+Source winner: P59 T0.7 O4.6 Winner 20260415_234702.txt
+Model: claude-opus-4-6
+Stop reason: end_turn
+======================================================================
+
+1. APPLIED: Inserted "Seven and a half leaves you a margin any honest man would be comfortable explaining to his wife" as a second sentence in Dale's final negotiation line, after her offer of extra candles and before Pollard's "You'll bankrupt me" reply.
+
+2. APPLIED: Inserted "because a coach party shorted on brandy is a coach party with opinions" after "the one I served to people who wouldn't know the difference," replacing the period with a comma to create a seamless clause.
+
+3. APPLIED: Inserted "Mrs Carswell at the Woolpack has no gift for discretion" as an additional sentence in Dale's dialogue about knowing Pollard's real costs, placed after "I buy soap from the same tallow, Mr Pollard."
+
+4. APPLIED: Inserted "The paper was heavy, the kind a man used when he wanted the weight of the letter to do some of the work before the words began" as a new sentence after the description of the seal and before the handwriting description, in the letter-discovery passage.
