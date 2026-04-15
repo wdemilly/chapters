@@ -1,0 +1,26 @@
+Transplant candidates for winner: P56 T0.7 O4.6 Winner 20260415_153158.txt
+Winner run_id: 20260415_151635_20260415_152052_batch1_p56_r01_t0p7
+Evaluator: claude-opus-4-6
+Evaluation id: eval_20260415_153158
+
+======================================================================
+
+1. FROM DRAFT 5 (run 20260415_151635_20260415_152728_batch1_p56_r01_t1p0)
+   QUOTE: "It had a deep burn scar near the left edge where someone—my grandmother, I suspected—had set down a hot pan in a hurry, and I touched it now the way I touched it most mornings, without thinking, the way you touch a wall to confirm it is still standing."
+   GRAFT INTO: Draft 2's opening kitchen scene, near "I set my hands flat on the table," to replace or augment the bare gesture with this inherited-object detail.
+   WHY: It grounds the grandmother's legacy in a physical mark rather than an abstraction, and the habitual touch reveals character without interpreting it.
+
+2. FROM DRAFT 4 (run 20260415_151635_20260415_152509_batch1_p56_r01_t0p9)
+   QUOTE: "The ink had frozen in the ledger's gutter overnight, a thin black rime along the spine where I'd left the pen uncapped like a fool."
+   GRAFT INTO: Draft 2's opening sentence, replacing "The ink had bled through the third column again."
+   WHY: The frozen ink is more specific to the season and setting, and "like a fool" establishes the narrator's self-critical voice in four words.
+
+3. FROM DRAFT 5 (run 20260415_151635_20260415_152728_batch1_p56_r01_t1p0)
+   QUOTE: "He held the spoon with a steadiness that cost him something. I could see the effort in his wrist."
+   GRAFT INTO: Draft 2's soldier-eating passage, replacing "He ate the way hungry men eat — quickly, with his head down, one arm curled around the bowl as though someone might take it from him."
+   WHY: It renders a specific physical observation instead of generalizing about how "hungry men eat," and it trusts the reader to infer the hunger from the effort.
+
+4. FROM DRAFT 1 (run 20260415_151635_20260415_151839_batch1_p56_r01_t0p6)
+   QUOTE: "The halfpenny is not your costs, Mr Fenton. It is your hope that I am too busy to check."
+   GRAFT INTO: Draft 2's chandler negotiation, to sharpen the moment where the narrator exposes Fenton's strategy — it could replace or precede "That is a great deal of passing for a single increase."
+   WHY: It is the single best line of dialogue in the batch — it does character, subtext, and power dynamics in one sentence. ---
