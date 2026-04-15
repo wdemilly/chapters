@@ -1,0 +1,26 @@
+Transplant candidates for winner: P57 T0.7 O4.6 Winner 20260415_213310.txt
+Winner run_id: 20260415_210659_20260415_211702_batch1_p57_r01_t0p7
+Evaluator: claude-opus-4-6
+Evaluation id: eval_20260415_213310
+
+======================================================================
+
+1. FROM DRAFT 2 (run 20260415_210659_20260415_211906_batch1_p57_r02_t0p7)
+   QUOTE: "There's a cobbler on the high street. He'll stitch it for sixpence if you tell him Dinah Dale sent you."
+   GRAFT INTO: The young man's departure scene in Draft 1, after "The coach road will take you to Baldock."
+   WHY: It gives us the protagonist's full name in action rather than through the coachman's address, adds a concrete local detail, and deepens her practical compassion without sentimentality.
+
+2. FROM DRAFT 2 (run 20260415_210659_20260415_211906_batch1_p57_r02_t0p7)
+   QUOTE: "I'll take an extra dozen now against December, paid on delivery."
+   GRAFT INTO: The chandler negotiation in Draft 1, as the closing concession after "shall we agree on last month's price."
+   WHY: It transforms the negotiation from a simple win into a tactical exchange that reveals the protagonist's sophistication — she gives Fenton something that costs her nothing today to secure the price she wants.
+
+3. FROM DRAFT 3 (run 20260415_210659_20260415_212131_batch1_p57_r01_t0p8)
+   QUOTE: "a stag's head, pretentious for a family that had been yeoman farmers two generations back, but Mr. Phineas Stainforth had aspirations, and aspirations required heraldry"
+   GRAFT INTO: Draft 1's letter scene, when the seal is first described, replacing or supplementing "I knew the hand on the direction before I turned it over."
+   WHY: It characterizes Stainforth with a single concrete, class-aware observation rather than leaving him as a name and a seal.
+
+4. FROM DRAFT 4 (run 20260415_210659_20260415_212351_batch1_p57_r02_t0p8)
+   QUOTE: "one hand curled around the bowl as if someone might take it"
+   GRAFT INTO: Draft 1's young man eating scene, as a detail during the meal, to complement or replace the spoon-parallel-to-bowl detail.
+   WHY: It captures the bodily habit of deprivation more viscerally than the post-meal tidiness, and it shows rather than interprets.
