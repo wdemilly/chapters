@@ -1,0 +1,31 @@
+Transplant candidates for winner: P56 T0.65 O4.6 Winner 20260415_123046.txt
+Winner run_id: 20260415_121430_20260415_121608_batch1_p56_r01_t0p65
+Evaluator: claude-opus-4-6
+Evaluation id: eval_20260415_123046
+
+======================================================================
+
+1. FROM DRAFT 3 (run 20260415_121430_20260415_122023_batch1_p56_r03_t0p65)
+   QUOTE: "The ink had frozen in the ledger's gutter overnight, a thin black skin I had to crack with the edge of my thumbnail before the nib would take."
+   GRAFT INTO: The opening line, replacing "The ink had bled through the third column again, and I pressed my thumb against the smear before it could ruin the facing page."
+   WHY: It's more specific, more seasonal, and does triple duty — establishing cold, poverty (no heated office), and the narrator's physicality — without any abstraction.
+
+2. FROM DRAFT 2 (run 20260415_121430_20260415_121824_batch1_p56_r02_t0p65)
+   QUOTE: "Forty-one pounds, eight shillings in hand. Fifty-two pounds owed."
+   GRAFT INTO: The second paragraph, where Draft 1 says "the margin between what the White Hound earned and what it owed was the width of my thumbnail."
+   WHY: This narrator would think in exact figures; the thumbnail metaphor is vague where the numbers are devastating.
+
+3. FROM DRAFT 2 (run 20260415_121430_20260415_121824_batch1_p56_r02_t0p65)
+   QUOTE: "His boots made no sound on the cobbles, which meant the soles were worn through entirely"
+   GRAFT INTO: The soldier's departure, after "He thanked me again. He went," to replace or supplement the narrator watching him leave.
+   WHY: It conveys the same information as Draft 1's description of the boots but through inference rather than direct observation, which is more characteristic of this narrator's intelligence.
+
+4. FROM DRAFT 3 (run 20260415_121430_20260415_122023_batch1_p56_r03_t0p65)
+   QUOTE: "Mrs. Brookes and I had a very interesting conversation last week"
+   GRAFT INTO: The chandler negotiation, as an alternative to or supplement for Draft 1's "I know what you charge the Woolpack and the Red Lion."
+   WHY: It reveals the narrator's intelligence network through a specific named relationship rather than a general claim, and the dry understatement of "very interesting" is perfectly in voice.
+
+5. FROM DRAFT 5 (run 20260415_121430_20260415_122455_batch1_p56_r02_t0p7)
+   QUOTE: "And I'll be bringing my ledger."
+   GRAFT INTO: The final line, replacing "You'll need a better offer than your nephew, Mr Stainforth."
+   WHY: It's more specific to the character (the ledger is her weapon), promises concrete action rather than general defiance, and closes on the narrator's defining trait. ---
