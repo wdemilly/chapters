@@ -1,0 +1,26 @@
+Transplant candidates for winner: P56 T0.9 O4.6 Winner 20260415_185741.txt
+Winner run_id: 20260415_184113_20260415_185150_batch1_p56_r02_t0p9
+Evaluator: claude-opus-4-6
+Evaluation id: eval_20260415_185741
+
+======================================================================
+
+1. FROM DRAFT 1 (run 20260415_184113_20260415_184445_batch1_p56_r01_t0p7)
+   QUOTE: "The ledger did not balance, and I had known it would not balance before I opened it."
+   GRAFT INTO: Opening line, replacing "The ink had dried on the last column before I noticed my fingers were numb."
+   WHY: It is the strongest opening sentence in the batch — declarative, voice-rich, and immediately establishes both the problem and the narrator's relationship to it, whereas Draft 4's opening, while good, is more conventional.
+
+2. FROM DRAFT 1 (run 20260415_184113_20260415_184445_batch1_p56_r01_t0p7)
+   QUOTE: "'Then you'll want to take the Welwyn fork until it's mended. It adds twenty minutes and saves you the axle.' He opened his mouth, reconsidered, and closed it. 'Twenty minutes.'"
+   GRAFT INTO: The coachman exchange, replacing Draft 4's more truncated version.
+   WHY: The specific route name, the time estimate, and the coachman's physical reaction ("opened his mouth, reconsidered, and closed it") do more dramatic work and better demonstrate the narrator's command of her territory.
+
+3. FROM DRAFT 3 (run 20260415_184113_20260415_184951_batch1_p56_r01_t0p9)
+   QUOTE: "He had stuffed paper into the gap to keep out the wet."
+   GRAFT INTO: The soldier's departure beat, where Draft 4 describes the boots coming apart at the welt.
+   WHY: It is the single most concrete observed detail about the soldier's poverty in any draft — specific, visual, and devastating without commentary.
+
+4. FROM DRAFT 2 (run 20260415_184113_20260415_184717_batch1_p56_r02_t0p7)
+   QUOTE: "his left hand found the edge of the crate and held it, as if the candles might make a break for the door"
+   GRAFT INTO: The chandler negotiation scene, during the silence after the narrator challenges Pollard's price.
+   WHY: It's a sharper, funnier physical detail for the chandler's discomfort than anything Draft 4 provides in that moment, and it fits the narrator's dry voice perfectly.
