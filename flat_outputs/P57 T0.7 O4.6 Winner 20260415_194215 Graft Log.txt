@@ -1,0 +1,13 @@
+Graft log for: P57 T0.7 O4.6 Winner 20260415_194215 Grafted.txt
+Source winner: P57 T0.7 O4.6 Winner 20260415_194215.txt
+Model: claude-opus-4-6
+Stop reason: end_turn
+======================================================================
+
+1. APPLIED: Replaced the final spoken line and its preceding stage directions ("to no one, to the room, to the quiet and the dark and the man who thought three weeks was enough to take my life apart: / 'You'll need a better offer than that, Mr. Stainforth.'") with "Then we'd best make them unfavourable," trimming the address clause for a cleaner close.
+
+2. APPLIED: Added "The nib wanted replacing, which meant fourpence I'd rather spend on salt." as a new second sentence in the opening paragraph, supplementing the ink-drying-wrong detail.
+
+3. APPLIED: Replaced "North... Wherever there's work." with "My sister's in Huntingdon... If she's still there." in the soldier's dialogue, adjusted surrounding beats for flow.
+
+4. APPLIED: Added the carrier's cart line as the protagonist's response after the soldier states his destination, along with a brief transitional sentence; adjusted the later reflection ("which was feed him and point him toward the cart") to maintain consistency.
