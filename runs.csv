@@ -2680,3 +2680,4 @@ Drafts 1 and 4 are the closest contenders. Draft 4 has several individually stro
 RANKING: 1, 4, 3, 2
 
 WINNER: 1",clean,claude-opus-4-6,,,,
+20260417_110830_20260417_111158_batch1_p62_r01_t1p0,20260417_110830,2026-04-17T11:13:43,batch1,62,1,sentence_check,anthropic,claude-opus-4-7,1.0,12000,0,source.txt,commercial outline 3.txt,profiles.txt,20260417_110830_20260417_111158_batch1_p62_r01_t1p0,micro_prompt_runs/flat_outputs/P62 T1.0 O4.7 R01 20260417_111158.txt,micro_prompt_runs/flat_outputs/20260417_110830_20260417_111158_batch1_p62_r01_t1p0_payload.txt,micro_prompt_runs/flat_outputs/20260417_110830_20260417_111158_batch1_p62_r01_t1p0_prompt.txt,micro_prompt_runs/flat_outputs/20260417_110830_20260417_111158_batch1_p62_r01_t1p0_meta.json,62c6ba9dbced24a11bf4a69b725576b0ff68565f0982fcb5f4179bf4fc8990f8,end_turn,63724,4736,2751,False,,False,,,,,,,,
